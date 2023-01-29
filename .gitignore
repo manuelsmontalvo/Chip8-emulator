@@ -1,1 +1,4 @@
 */desktop/target/*
+*/desktop/*.lock
+*/chip8_core/target/*
+*/chip8_core/*.lock
