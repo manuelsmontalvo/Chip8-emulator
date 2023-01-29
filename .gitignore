@@ -1,0 +1,7 @@
+chip8_core
+!chip8_core/src/lib.rs
+!chip8_core/corgo.toml
+
+desktop
+!desktop/src/main.rs
+!desktop/cargo.toml
