@@ -1,5 +1,5 @@
 # Rust files
-**/target/*
-**/pkg/*
-*.lock
-*.epub
+./chip8_core/target
+./chip8_core/Cargo.lock
+./desktop/Cargo.lock
+./desktop/target

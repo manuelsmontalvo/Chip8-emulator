@@ -1,5 +1,0 @@
-# Rust files
-**/target/*
-**/pkg/*
-*.lock
-*.epub
