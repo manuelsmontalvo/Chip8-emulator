@@ -1,6 +1,5 @@
-./chip8_core/Cargo.lock
-./chip8_core/target
-
-
-./desktop/Cargo.lock
-./desktop/target
+# Rust files
+**/target/*
+**/pkg/*
+*.lock
+*.epub
