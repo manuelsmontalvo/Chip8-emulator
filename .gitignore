@@ -1,7 +1,6 @@
-chip8_core
-!chip8_core/src/lib.rs
-!chip8_core/corgo.toml
+./chip8_core/Cargo.lock
+./chip8_core/target
 
-desktop
-!desktop/src/main.rs
-!desktop/cargo.toml
+
+./desktop/Cargo.lock
+./desktop/target
