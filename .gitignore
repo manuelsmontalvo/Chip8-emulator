@@ -1,5 +1,1 @@
-# Rust files
-./chip8_core/target
-./chip8_core/Cargo.lock
-./desktop/Cargo.lock
-./desktop/target
+*/desktop/target/*
