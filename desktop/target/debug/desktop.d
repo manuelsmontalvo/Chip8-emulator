@@ -1,0 +1,1 @@
+/Users/manuelmontalvo/Desktop/rust/Chip8-emulator/desktop/target/debug/desktop: /Users/manuelmontalvo/Desktop/rust/Chip8-emulator/chip8_core/src/lib.rs /Users/manuelmontalvo/Desktop/rust/Chip8-emulator/desktop/src/main.rs
